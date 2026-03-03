@@ -9,6 +9,11 @@ Athera-AIOS is an open-source architecture designed to bridge the gap between "p
 
 ---
 
+## Core Architecture Diagram
+![Athera v4.0 Architecture](https://github.com/ff4554825-sys/Athera-AIOS/raw/main/athera-v4.0-architecture.png)
+
+---
+
 ## 1. Core Architecture (The VG Blueprint)
 The system is built on a hierarchical logic flow, ensuring every output is validated through empirical and deductive cycles.
 
