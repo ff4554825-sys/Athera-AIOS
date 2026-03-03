@@ -62,3 +62,44 @@ This project is licensed under the **Apache License 2.0**.
 **Important Notice**:
 Any use, reference, or modification of this architectural design must clearly credit the original author: ZongHong.
 Unauthorized use or misappropriation of original attribution is prohibited.
+# Technical Summary: The Athera Hard-Logic
+*A Paradigm Shift from Probabilistic AI to Deterministic Physical Reasoning*
+
+This document outlines the **Hard-Logic** core of Athera-AIOS, extending its theoretical framework into hardware-enforced determinism and physical survival protocols.
+
+---
+
+## 1. L0: Mechanical Constitution (The Dead-Lock)
+**Core Objective**: Physical Persistence Without Power.
+*   **Logic**: Wedge-Expansion & Gravity-Anchor Mechanism.
+*   **Mechanism**: A zero-power, stress-triggered physical ratchet system.
+*   **Constraint**: If \( P_{\text{sys}} = 0 \) (Total Power Failure), all joints enter a **Self-Locking** state via mechanical friction alone.
+*   **Guarantee**: The system remains structurally upright (statue mode) rather than collapsing into a non-recoverable heap.
+
+## 2. L1 & L2: Asynchronous Reflex (The Nerve)
+**Core Objective**: Sub-millisecond Environmental Adaptation.
+*   **Hardware**: Muller C-Element gate mapping implemented on 7nm FinFET architecture.
+*   **Nerve Bus**: 800G Optical Pulse Bus with Vector-Clock synchronization.
+*   **Innovation**: Abolition of the Global Clock Tree. Every joint operates as an autonomous Atomic State Machine.
+*   **Performance**: End-to-end latency < 1ms from impact sensing to local torque compensation.
+
+## 3. L4: C-AGI Deduction (The Soul)
+**Core Objective**: Logical Survival Under Stress.
+*   **Inference Engine**: **FB-Reasoning** (Forward-Backward Deduction) core.
+*   **Self-Correction Metric**: 
+    \[
+    \text{Error}_{\text{eval}} = \int (\text{Entropy\_Cost}) \cdot dt
+    \]
+*   **Adaptive Decision Protocol**: If the computational cost of "Logical Perfection" exceeds the dynamic **Survival Threshold**, the system executes a **Topological Shift** (Adaptive Glitch Integration) instead of triggering a fatal crash.
+
+## 4. Triple-Factor Combat Formula
+**Core Objective**: Hierarchical Prioritization of Existence.
+*   **Iron Rule**: Physical integrity overrides all AI tactical intent.
+*   **Formula**: 
+    \[
+    \text{If Stability} \to 0, \text{then Output} \to 0
+    \]
+*   **Implication**: The system will sacrifice mission objectives, communication, or even computational precision to preserve its physical hardware.
+
+---
+**Author**: ZongHong (宗弘) | **Project**: Athera-AIOS v4.1
