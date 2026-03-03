@@ -1,72 +1,72 @@
 # Athera v4.0
-## Self-Evolving AIOS (Intelligence Self-Proliferating Logic Operating System)
+##自进化AIOS（智能自我增殖逻辑操作系统）
 
 **Author: 宗弘 (ZongHong)**  
-GitHub: [ff4554825-sys](https://github.com/ff4554825-sys)  
-All rights reserved.
+GitHub：[ff4554825-sys](https://github.com/ff4554825-sys)  
+保留所有权利。
 
 ---
 
-## Project Overview
-Athera v4.0 is a next-generation **Self-Evolving AI Operating System (AIOS)** designed for general-purpose AI assistants and chatbots. It core solves the pain points of current AI systems: hallucinations, slow response, state drift, memory bloat, and lack of autonomous evolution.
+##项目概述
+Athera v4.0 是一款面向通用型人工智能助手和聊天机器人的下一代**自进化人工智能操作系统（AIOS）**，核心解决了当前人工智能系统所面临的痛点：幻觉、响应迟缓、状态漂移、内存膨胀以及缺乏自主进化能力。
 
-The architecture achieves:
-- Millisecond-level reflex response for lightweight tasks
-- Logic self-verification for high-value decision-making
-- Autonomous intelligence growth during idle time
-- Zero hallucination via truth anchor verification
-- Non-blocking long-term memory with semantic pruning
+该架构实现：
+-毫秒级反射响应，适用于轻量级任务
+-逻辑自验证，助力高价值决策
+-空闲时自主智能成长
+-通过真相锚定验证实现零幻觉
+-采用语义剪枝的非阻塞长期记忆
 
 ---
 
-## Core Features
-| Feature | Description |
+##核心功能
+|功能|描述|
 |---------|-------------|
-| Recursive Game Reasoning | Forward deduction + reverse traceability + asynchronous multi-model game |
-| Semantic Pruning | Automatic removal of redundant memory, retain core logic |
-| Asynchronous Reflection Core | Millisecond-level response for daily chat/scenarios |
-| Truth Anchor Verification | External tool/code execution validation to eliminate hallucinations |
-| Recursive Self-Evolution | Paradox generation → simulation deduction → experience precipitation (idle time) |
-| Vector-Clock Sync | Full-link state consistency, prevent logical deadlock |
-| Non-Blocking Adaptive Memory | Dynamic vector database cluster + semantic lifespan pruning |
+|递归博弈推理|前向推演 + 反向追溯 + 异步多模型博弈|
+语义剪枝自动移除冗余内存，保留核心逻辑|
+|异步反射核心|日常聊天/场景毫秒级响应|
+真相锚定验证外部工具/代码执行验证，以消除幻觉|
+|递归自我进化|悖论生成 → 模拟推演 → 经验沉淀（空闲时间）|
+向量时钟同步全链路状态一致性，防止逻辑死锁|
+|无阻塞自适应内存|动态向量数据库集群 + 语义生命周期剪枝|
 
 ---
 
-## Architecture Diagram
-![Athera v4.0 Architecture](https://github.com/ff4554825-sys/Athera-AIOS/blob/main/athera-v4.0-architecture.png)
-*Replace the link with your actual architecture diagram file path after upload*
+##架构图
+![Athera v4.0 架构](https://github.com/ff4554825-sys/Athera-AIOS/blob/main/athera-v4.0-architecture.png)
+*上传后，请将链接替换为您的实际架构图文件路径*
 
-### Architecture Layer Explanation
-1. **Multi-Modal Atomic Perception (Sense)**  
-   Convert real-world chaotic data into ordered tensors + PII privacy shield + atomic state machine
-2. **Dynamic Computing Scheduling Router**  
-   Maximize energy efficiency: lightweight tasks → Reflex Core, heavy tasks → Reasoning Core
-3. **Reflex Core (v20.1)**  
-   Millisecond-level response (accumulator collapse / SR-Latch temporary storage / thermal control)
-4. **Reasoning Core (v4.0)**  
-   High-value logic decision (forward deduction + reverse traceability + asynchronous game)
-5. **Recursive Self-Evolution Layer**  
-   Autonomous intelligence growth during idle time (paradox generation → simulation → experience precipitation)
-6. **Truth Anchor Verification**  
-   External tool/code sandbox execution to ensure output accuracy
-7. **Non-Blocking Persistent Memory Layer**  
-   Dynamic vector database cluster + semantic lifespan pruning
-8. **Immune Self-Healing Monitoring (Guardian)**  
-   Logical deadlock detection + full-link vector-clock synchronization
+###架构层说明
+1. **多模态原子感知（感官）**  
+将现实世界的混沌数据转换为有序张量 + PII隐私保护 + 原子状态机
+2. **动态计算调度路由器**  
+最大化能源效率：轻量级任务 → 反射核心，重型任务 → 推理核心
+3. **反射核心（v20.1）**  
+毫秒级响应（累加器坍缩 / SR锁存器临时存储 / 热控）
+4. **推理核心（v4.0）**  
+高价值逻辑决策（正向推理 + 反向追溯 + 异步博弈）
+5. **递归自进化层**  
+空闲时的自主智能成长（悖论生成→模拟→经验沉淀）
+6. **真相锚定验证**  
+外部工具/代码沙箱执行，以确保输出准确性
+7. **非阻塞持久内存层**  
+动态向量数据库集群 + 语义生命周期剪枝
+8. **免疫自愈监控（守护者）**  
+逻辑死锁检测 + 全链路向量时钟同步
 
 ---
 
-## License
-### MIT License (Modified with Attribution Requirement)
-Permission is hereby granted, free of charge, to any person obtaining a copy of this architecture design, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the design, subject to the following conditions:
+##许可证
+###MIT 许可证（修改后需注明出处）
+兹此授予任何人免费使用、复制、修改、合并、发布、分发、再许可和/或出售本架构设计的副本的权利，但须遵守以下条件：
 
-**The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software, and the original author must be clearly attributed as: 宗弘 (ZongHong) (GitHub: ff4554825-sys).**
+**上述版权声明和本许可声明应包含在软件的所有副本或重要部分中，且必须明确注明原始作者为：宗弘 (ZongHong)（GitHub：ff4554825-sys）。**
 
 ### 附加中文声明
 任何使用、参考、修改本架构设计的行为，必须清晰标注原创作者：宗弘 (ZongHong)（GitHub 用户名：ff4554825-sys），禁止冒用、篡改原创归属。
 
 ---
 
-## Contact
+##联系方式
 - GitHub: [ff4554825-sys](https://github.com/ff4554825-sys)
-- Author: 宗弘 (ZongHong)
+-作者：宗弘 (ZongHong)
